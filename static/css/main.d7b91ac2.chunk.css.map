@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","App.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,kCAAmC,CACnC,iCACF,CCFA,QACI,YACJ","file":"main.d7b91ac2.chunk.css","sourcesContent":["body {\n  margin: 0;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n","@import '~antd/dist/antd.css';\n\n.hidden {\n    display: none;\n}"]}
